@@ -49,7 +49,7 @@ SO THAT I can reliably retrieve them for later use
 
 
   ## Deployed App:<br /> 
-  []()
+  [Launched App](https://pwa-text-editorlc.herokuapp.com/)
   ![Site Image](https://github.com/LuisChevere/PWA-Text-Editor/blob/main/client/src/images/launch-app-screenshot.png?raw=true)
 
   ## Contributions
